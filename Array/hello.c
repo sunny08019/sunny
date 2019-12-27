@@ -2,8 +2,8 @@
 //#include <windows.h>
 int main()
 {
-    printf("hello world!\n");//Êä³öÎÄ×Ö
-    getchar();
+    printf("hello world!\n");//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+    getchar(); //è·å–è¾“å…¥
     return 0;
     //system("pause");
 }
