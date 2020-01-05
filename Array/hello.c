@@ -2,7 +2,7 @@
 //#include <windows.h>
 int main()
 {
-    printf("hello world!\n");//Êä³öÎÄ×Ö
+    printf("hello world!\n");//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     getchar();
     return 0;
     //system("pause");
